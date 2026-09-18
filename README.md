@@ -112,5 +112,5 @@ La aplicación permite realizar operaciones de registro, consulta, actualizació
 
 
 
-Corte 1 - Aplicación funcional.
+Unidad 1 - Aplicación funcional.
 
