@@ -2,7 +2,7 @@
 
 
 
-Aplicación Android desarrollada en Kodular como actividad correspondiente al Corte 1.
+Aplicación Android desarrollada en Kodular como actividad correspondiente a la unidad 1.
 
 
 
